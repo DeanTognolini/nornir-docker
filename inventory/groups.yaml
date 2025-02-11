@@ -1,0 +1,5 @@
+---
+cisco_iosxr:
+  platform: iosxr
+cisco_ios:
+  platform: ios
