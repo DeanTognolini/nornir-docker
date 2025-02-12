@@ -2,9 +2,9 @@
 inventory:
   plugin: SimpleInventory
   options:
-    host_file: "/home/vagrant/nornir/nornir-project/inventory/hosts.yaml"
-    group_file: "/home/vagrant/nornir/nornir-project/inventory/groups.yaml"
-    defaults_file: "/home/vagrant/nornir/nornir-project/inventory/defaults.yaml"
+    host_file: "./inventory/hosts.yaml"
+    group_file: "./inventory/groups.yaml"
+    defaults_file: "./inventory/defaults.yaml"
 
 runner:
   plugin: threaded
