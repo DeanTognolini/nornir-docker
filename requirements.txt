@@ -2,3 +2,5 @@ nornir
 nornir-netmiko
 nornir-utils
 nornir_napalm
+telnetlib-313-and-up
+python-dotenv
